@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli",
+  "version": "1.0.0",
+  "description": "vue webpack template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turing-Rz/vue-cli.git"
+  },
+  "keywords": [
+    "webpack",
+    "vue"
+  ],
+  "author": "LiuRuizhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turing-Rz/vue-cli/issues"
+  },
+  "homepage": "https://github.com/Turing-Rz/vue-cli#readme"
+}
